@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Show Temperature</string>
+    <string name="textViewSensorName_text">Green House: </string>
+    <string name="textViewShowTemp_text">Unknown </string>
+    <string name="buttonGetTemp_text">Get Temperature </string>
+    <string name="editTextWhichSensor_text">Input name of the rum </string>
+    <string name="textViewChooseSensor">Choose which room </string>
+
+
+
+    <string name="title_activity_user_login">UserLogin</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+
+
+</resources>
